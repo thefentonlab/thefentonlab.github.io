@@ -10,17 +10,17 @@
 #   note:    short label, shows as a blue tag (optional)
 # ============================================================
 
-- number: 2
+- number: 24
   cite: >
-    Example, A.; Fenton, J. L. Precursor-Mediated Colloidal Synthesis of Metastable
-    Tetragonal BaCuS<sub>2</sub> Nanocrystals. <em>J. Am. Chem. Soc.</em>
-    <strong>2026</strong>, <em>148</em>, 1234–1240.
-  doi: https://doi.org/10.1000/example
-  image: toc/example.png
-  note: Invited perspective
+    Manikkoth, R.R.; Fenton, J.L.<sup>*</sup> "Beyond Familiar Phases: Discovering New Crystal Chemistry at the Nanoscale." <em>Chem. Mater.</em>
+    <strong>2026</strong>, ASAP.
+  doi: https://doi.org/10.1021/acs.chemmater.6c01898
+  image: toc/chemmatperspective.jpg
+  note: Invited perspective published in the Up-and-Coming series at <em>Chem. Mater.</em>
 
-- number: 1
+- number: 23
   cite: >
-    Example, B.; Fenton, J. L. A Second Example Paper Title Goes Here.
-    <em>Chem. Mater.</em> <strong>2025</strong>, <em>37</em>, 5678–5685.
-  doi: https://doi.org/10.1000/example2
+    Carmona-Sepúlveda, I.P.; Kerenick, A.R.; Fenton, J.L.<sup>*</sup> "Solvent-Induced Structural and Optical Transformations in a Hybrid Copper Phosphate Framework."
+    <em>CrystEngComm</em> <strong>2026</strong>, <em>28</em>, 3785-3796.
+  doi: https://doi.org/10.1039/d6ce00295a
+  image: toc/crystengcomm2026.png
