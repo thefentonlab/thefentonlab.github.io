@@ -1,0 +1,32 @@
+---
+layout: default
+title: Publications
+permalink: /publications/
+---
+
+<section>
+  <div class="wrap">
+    <h1>Publications</h1>
+    <p class="narrow" style="margin-top:16px">A complete list is also available on
+      <a href="#">Google Scholar</a>.</p>
+  </div>
+</section>
+
+<section style="padding-top:0">
+  <div class="wrap">
+    {% assign pubs = site.data.publications | sort: "number" | reverse %}
+    {% for pub in pubs %}
+    <div class="pub">
+      <div>
+        {% if pub.image %}<img src="{{ '/assets/img/' | append: pub.image | relative_url }}" alt="">{% endif %}
+      </div>
+      <div>
+        <p class="num">{{ pub.number }}</p>
+        {% if pub.note %}<span class="tag">{{ pub.note }}</span>{% endif %}
+        <p class="cite">{{ pub.cite }}</p>
+        {% if pub.doi %}<a class="doi" href="{{ pub.doi }}" target="_blank" rel="noopener">DOI</a>{% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>

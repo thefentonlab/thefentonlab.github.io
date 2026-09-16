@@ -1,0 +1,64 @@
+---
+layout: default
+title: People
+permalink: /people/
+---
+
+<section>
+  <div class="wrap">
+    <h1>People</h1>
+  </div>
+</section>
+
+<section class="band" style="padding-top:0">
+  <div class="wrap grid g2 pi" style="padding-top:60px">
+    <img src="{{ '/assets/img/' | append: site.data.people.pi.photo | relative_url }}" alt="{{ site.data.people.pi.name }}">
+    <div>
+      <h2>{{ site.data.people.pi.name }}</h2>
+      <p class="title">{{ site.data.people.pi.title }}</p>
+      <p class="narrow">{{ site.data.people.pi.bio }}</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2 class="sec-label">Graduate students</h2>
+    <div class="grid g3">
+      {% for p in site.data.people.graduate %}
+      <div class="person">
+        <img src="{{ '/assets/img/' | append: p.photo | relative_url }}" alt="{{ p.name }}">
+        <p class="name">{{ p.name }}</p>
+        <p class="meta">Joined {{ p.joined }}<br>{{ p.degree }}</p>
+        {% if p.email %}<a class="email" href="mailto:{{ p.email }}">{{ p.email }}</a>{% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="band">
+  <div class="wrap">
+    <h2 class="sec-label">Undergraduate researchers</h2>
+    <div class="grid g4">
+      {% for p in site.data.people.undergraduate %}
+      <div class="person ug">
+        <img src="{{ '/assets/img/' | append: p.photo | relative_url }}" alt="{{ p.name }}">
+        <p class="name">{{ p.name }}</p>
+        <p class="meta">{{ p.meta }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2 class="sec-label">Alumni</h2>
+    <div class="grid g3 alumni">
+      {% for p in site.data.people.alumni %}
+      <div><strong>{{ p.name }}</strong> &middot; {{ p.degree }} &middot; {{ p.now }}</div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

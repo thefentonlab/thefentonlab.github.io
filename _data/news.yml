@@ -1,0 +1,12 @@
+# ============================================================
+# Group news, newest first. Just add new entries at the top.
+# "date" is free text, so "September 2026" or "Fall 2026" both work.
+# "body" is optional.
+# ============================================================
+
+- date: September 2026
+  title: New group website launched
+  body: Built from scratch, and nothing is grayed out.
+
+- date: June 2026
+  title: Group attends the Inorganic Chemistry GRC

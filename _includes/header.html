@@ -1,0 +1,14 @@
+<header class="site-head">
+  <div class="wrap head-in">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      {% include logo.svg %}
+      <span class="wordmark">The Fenton Lab</span>
+    </a>
+    <button class="nav-toggle" aria-label="Menu">&#9776;</button>
+    <nav class="nav">
+      {% for item in site.nav %}
+        <a href="{{ item.url | relative_url }}"{% if page.url contains item.url %} class="on"{% endif %}>{{ item.title }}</a>
+      {% endfor %}
+    </nav>
+  </div>
+</header>

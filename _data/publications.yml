@@ -1,0 +1,26 @@
+# ============================================================
+# Publications, newest first is handled automatically by "number".
+# Just add the next number at the top. Nothing else changes.
+#
+#   number:  highest = most recent
+#   cite:    the full ACS-style citation. HTML is allowed:
+#            <em>italic</em>  <strong>bold</strong>  <sub>2</sub>
+#   doi:     full URL
+#   image:   filename in assets/img/toc/  (optional — omit if none)
+#   note:    short label, shows as a blue tag (optional)
+# ============================================================
+
+- number: 2
+  cite: >
+    Example, A.; Fenton, J. L. Precursor-Mediated Colloidal Synthesis of Metastable
+    Tetragonal BaCuS<sub>2</sub> Nanocrystals. <em>J. Am. Chem. Soc.</em>
+    <strong>2026</strong>, <em>148</em>, 1234–1240.
+  doi: https://doi.org/10.1000/example
+  image: toc/example.png
+  note: Invited perspective
+
+- number: 1
+  cite: >
+    Example, B.; Fenton, J. L. A Second Example Paper Title Goes Here.
+    <em>Chem. Mater.</em> <strong>2025</strong>, <em>37</em>, 5678–5685.
+  doi: https://doi.org/10.1000/example2

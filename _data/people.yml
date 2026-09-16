@@ -1,0 +1,43 @@
+# ============================================================
+# Everyone in the group. Add a person by copying a block below.
+# Photos go in assets/img/people/ and you reference the filename.
+# Delete the "email:" line for anyone who shouldn't be listed.
+# ============================================================
+
+pi:
+  name: Julie Fenton
+  title: Assistant Professor of Chemistry, Penn State
+  photo: people/julie.jpg
+  bio: >
+    Julie is a synthetic materials chemist. Her work addresses bottlenecks in making
+    and understanding inorganic, organic, and hybrid solids. She grew up in Lancaster,
+    Pennsylvania, and earned a BS from Messiah College and a PhD with Raymond Schaak
+    at Penn State. Before joining the faculty she held an Arnold O. Beckman
+    Postdoctoral Fellowship at Northwestern with William Dichtel, working on
+    crystalline porous polymers. Outside lab she enjoys cross training, trivia,
+    travel, and time with her family and her dog Chili.
+
+graduate:
+  - name: Isis Carmona-Sepúlveda
+    photo: people/isis.jpg
+    joined: 2022
+    degree: BS Chemistry, University of Puerto Rico at Río Piedras
+    email: isis@psu.edu
+
+  # --- copy from here to add someone ---
+  - name: Example Student
+    photo: people/placeholder.jpg
+    joined: 2024
+    degree: BS Chemistry, Example University
+    email: example@psu.edu
+  # --- to here ---
+
+undergraduate:
+  - name: Example Undergrad
+    photo: people/placeholder.jpg
+    meta: Chemistry, expected 2027
+
+alumni:
+  - name: Example Alum
+    degree: PhD 2026
+    now: now at Example Company
