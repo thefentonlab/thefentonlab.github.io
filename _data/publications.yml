@@ -16,7 +16,7 @@
     <strong>2026</strong>, ASAP.
   doi: https://doi.org/10.1021/acs.chemmater.6c01898
   image: toc/chemmatperspective.jpg
-  note: Invited perspective published in the Up-and-Coming series at <em>Chem. Mater.</em>
+  note: Invited Up-and-Coming Perspective
 
 - number: 23
   cite: >
@@ -24,3 +24,18 @@
     <em>CrystEngComm</em> <strong>2026</strong>, <em>28</em>, 3785-3796.
   doi: https://doi.org/10.1039/d6ce00295a
   image: toc/crystengcomm2026.png
+
+- number: 22
+  cite: >
+    Josey, R.F., III; Fenton, J.L.<sup>*</sup> "Dimensional Engineering in Hybrid Transition Metal Halide Materials through the Introduction of Chiral Organic Cations."
+    <em>Chem. Mater</em> <strong>2025</strong>, <em>37</em>, 6385-6394.
+  doi: https://doi.org/10.1021/acs.chemmater.5c01592
+  image: toc/chemmat2025hybrid.jpg
+
+- number: 21
+  cite: >
+    Manikkoth, R.R.; Landry, D.M.; Leffel, A.; Fenton, J.L.<sup>*</sup> "Complex Intergrowth LnCuOSe Nanocrystals via Precursor-Directed Colloidal Synthesis."
+    <em>ACS Nanoscience Au</em> <strong>2025</strong>, <em>5</em>, 398-406.
+  doi: https://doi.org/10.1021/acs.chemmater.5c01592
+  image: toc/nanoscienceau2025.tiff 
+  note: Invited Rising Stars in Nanoscience Contribution
