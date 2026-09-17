@@ -23,12 +23,14 @@ graduate:
     joined: 2022
     degree: BS Chemistry 2022, University of Puerto Rico at Río Piedras
     email: isis@psu.edu
+    linkedin: https://www.linkedin.com/in/isispcarmonasepulveda
 
   - name: Danielle Landry
     photo: people/danni.jpg
     joined: 2022
     degree: BS Chemistry 2022, University of Texas at Austin
     email: dml6347@psu.edu
+    linkedin: https://www.linkedin.com/in/danielle-landry-a2a8222a4
     
   - name: Adelaide Kerenick
     photo: people/addie.jpg
@@ -41,25 +43,28 @@ graduate:
     joined: 2023
     degree: BS-MS Chemistry 2023, IISER-Thiruvanathanpuram
     email: rkm5933@psu.edu
+    linkedin: https://www.linkedin.com/in/rahul-manikkoth-304b09270
 
   - name: Devin Schwaibold
     photo: people/devin.jpg
     joined: 2024
     degree: BS Chemistry 2024, Southeastern Louisiana University
     email: djs7456@psu.edu
+    linkedin: https://www.linkedin.com/in/devin-schwaibold1500
 
   - name: Shibartha Dutta
     photo: people/shibartha.jpg
     joined: 2025 (joint with James Hodges)
     degree: MSc Chemistry 2025, IIT Kharagpur; BSc Chemistry 2023, RKMRC Narendrapur
     email: smd7390@psu.edu
+    linkedin: https://in.linkedin.com/in/shibartha-dutta-16133332b
 
   - name: Kara Musteikis
     photo: people/kara.jpg
     joined: 2025
     degree: BS Chemistry, North Carolina State University
     email: kvm6447@psu.edu
-
+    linkedin: https://www.linkedin.com/in/kara-musteikis-626317294
 
 undergraduate:
   - name: Valeria Guerra Dopazo
