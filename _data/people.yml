@@ -12,18 +12,55 @@ pi:
     Julie is a synthetic materials chemist. Her work addresses bottlenecks in making
     and understanding inorganic, organic, and hybrid solids. She grew up in Lancaster,
     Pennsylvania, and earned a BS from Messiah College and a PhD with Raymond Schaak
-    at Penn State. Before joining the faculty she held an Arnold O. Beckman
+    at Penn State. Before joining the faculty at Penn State, she held an Arnold O. Beckman
     Postdoctoral Fellowship at Northwestern with William Dichtel, working on
     crystalline porous polymers. Outside lab she enjoys cross training, trivia,
-    travel, and time with her family and her dog Chili.
+    travel, and time with her family and her dog (Chili).
 
 graduate:
   - name: Isis Carmona-Sepúlveda
-    photo: people/isis.jpg
+    photo: people/isis1.jpg
     joined: 2022
-    degree: BS Chemistry, University of Puerto Rico at Río Piedras
+    degree: BS Chemistry 2022, University of Puerto Rico at Río Piedras
     email: isis@psu.edu
 
+  - name: Danielle Landry
+    photo: people/danni.jpg
+    joined: 2022
+    degree: BS Chemistry 2022, University of Texas at Austin
+    email: dml6347@psu.edu
+    
+  - name: Adelaide Kerenick
+    photo: people/addie.jpg
+    joined: 2023
+    degree: BS Chemistry 2023, University of Denver
+    email: ark6117@psu.edu
+
+  - name: Rahul Ramachandran Manikkoth
+    photo: people/rahul.jpg
+    joined: 2023
+    degree: BS-MS Chemistry 2023, IISER-Thiruvanathanpuram
+    email: rkm5933@psu.edu
+
+  - name: Devin Schwaibold
+    photo: people/devin.jpg
+    joined: 2024
+    degree: BS Chemistry 2024, Southeastern Louisiana University
+    email: djs7456@psu.edu
+
+  - name: Shibartha Dutta
+    photo: people/shibartha.jpg
+    joined: 2025 (joint with James Hodges)
+    degree: MSc Chemistry 2025, IIT Kharagpur
+    BSc Chemistry 2023, RKMRC Narendrapur
+    email: smd7390@psu.edu
+
+  - name: Kara Musteikis
+    photo: people/kara.jpg
+    joined: 2025
+    degree: BS Chemistry, North Carolina State University
+    email: kvm6447@psu.edu
+    
   # --- copy from here to add someone ---
   - name: Example Student
     photo: people/placeholder.jpg
@@ -33,11 +70,34 @@ graduate:
   # --- to here ---
 
 undergraduate:
-  - name: Example Undergrad
-    photo: people/placeholder.jpg
+  - name: Valeria Guerra Dopazo
+    photo: people/valeria.jpg
     meta: Chemistry, expected 2027
 
+  - name: Mark Farrell
+    photo: people/mark.jpg
+    meta: Chemistry, expected 2027
+  
+  - name: Dean Rossi
+    photo: people/placeholder.jpg
+    meta: Chemistry, expected 2028
+
 alumni:
-  - name: Example Alum
-    degree: PhD 2026
-    now: now at Example Company
+  - name: Balu Ratheesh
+    degree: PhD (Penn State) 2026
+    now: postdoc at Indiana University (with Samantha Harvey)
+
+  - name: Richard Josey
+    degree: PhD (Penn State) 2026
+    now: scientist, PPG
+
+  - name: Andrew Baumgartner
+    degree: MS (Penn State) 2026
+
+  - name: Lucas Madak
+    degree: BS (Penn State) 2025
+    now: graduate student (chemistry) at University of Illinois Urbana Champaign
+    
+  - name: Aidan Gonzalez
+    degree: BS (Penn State) 2025
+    now: graduate student at Colorado State University (with Jamie Nielsen & Amy Prieto)
