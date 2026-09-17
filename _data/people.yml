@@ -59,14 +59,7 @@ graduate:
     joined: 2025
     degree: BS Chemistry, North Carolina State University
     email: kvm6447@psu.edu
-    
-  # --- copy from here to add someone ---
-  - name: Example Student
-    photo: people/placeholder.jpg
-    joined: 2024
-    degree: BS Chemistry, Example University
-    email: example@psu.edu
-  # --- to here ---
+
 
 undergraduate:
   - name: Valeria Guerra Dopazo
