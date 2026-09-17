@@ -93,6 +93,7 @@ section{padding:var(--pad) 0;}
 .pi .title{font-size:17px; color:var(--muted); margin-bottom:20px;}
 .alumni{font-size:15px; line-height:1.9; color:var(--body);}
 .alumni strong{font-weight:500; color:var(--ink);}
+.person .email{display:block; margin-top:4px;}
 
 /* ---------- publications ---------- */
 .pub{display:grid; grid-template-columns:220px 1fr; gap:32px; padding:28px 0;
@@ -174,4 +175,4 @@ footer a:hover{color:#fff;}
   .pub-simple{grid-template-columns:1fr; gap:4px;}
   .pub-simple .num{margin-bottom:2px;}
 }
-.person .email{display:block; margin-top:4px;}
+
