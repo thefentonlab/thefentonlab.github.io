@@ -28,7 +28,7 @@
 - number: 22
   cite: >
     Josey, R.F., III; Fenton, J.L.<sup>*</sup> "Dimensional Engineering in Hybrid Transition Metal Halide Materials through the Introduction of Chiral Organic Cations."
-    <em>Chem. Mater</em> <strong>2025</strong>, <em>37</em>, 6385-6394.
+    <em>Chem. Mater.</em> <strong>2025</strong>, <em>37</em>, 6385-6394.
   doi: https://doi.org/10.1021/acs.chemmater.5c01592
   image: toc/chemmat2025hybrid.jpg
 
@@ -38,4 +38,34 @@
     <em>ACS Nanoscience Au</em> <strong>2025</strong>, <em>5</em>, 398-406.
   doi: https://doi.org/10.1021/acs.chemmater.5c01592
   image: toc/nanoscienceau2025.tiff 
-  note: Invited Rising Stars in Nanoscience Contribution
+  note: Invited Contribution: Rising Stars in Nanoscience
+
+- number: 20
+  cite: >
+    Ratheesh, B.P.; Fenton, J.L.<sup>*</sup> "Metastable Ag-Ln-S Nanocrystals with Ordered Cations and Vacancies Form through Structure-Templating Ag2S Intermediate."
+    <em>Chem. Mater.</em> <strong>2025</strong>, <em>37</em>, 3813-3821.
+  doi: https://doi.org/10.1021/acs.chemmater.5c00570
+  image: toc/chemmat2025aglns.jpg
+
+- number: 19
+  cite: >
+    Josey, R.F., III; Fenton, J.L.<sup>*</sup> "Variable Mechanical Properties in Layered Copper Bromide Hybrid Solids Based on Configuration of Organic Cations."
+    <em>Inorg. Chem.</em> <strong>2024</strong>, <em>63</em>, 6026-6032.
+  doi: https://doi.org/10.1021/acs.inorgchem.4c00233
+  image: toc/inorgchem2024.tif
+
+- number: 18
+  cite: >
+    Nandy, L.; Fenton, J.L.; Freedman, M.A.<sup>*</sup> "Heterogeneous Ice Nucleation in Model Crystalline Porous Organic Polymers: Influence of Pore Size on Immersion Freezing."
+    <em>J. Phys. Chem. A.</em> <strong>2023</strong>, <em>127</em>, 6300-6308.
+  doi: https://doi.org/10.1021/acs.jpca.3c00071
+  image: toc/jpc2023.png
+
+- number: 17
+  cite: >
+    Fenton, J.L.<sup>*</sup> "Interfaced intermetallics on the nanoscale."
+    <em>Nature Synthesis</em> <strong>2022</strong>, <em>2</em>, 1-2.
+  doi: https://doi.org/10.1038/s44160-023-00308-4
+  note: Invited Perspective on Feature Article
+
+
