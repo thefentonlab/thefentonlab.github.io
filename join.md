@@ -13,11 +13,11 @@ If you're interested in solving synthesis problems for new materials, get in tou
 
 ## Graduate students
 
-Penn State admits to the Chemistry PhD program rather than to individual groups. Apply to the department and mention an interest in materials or inorganic chemistry. Emailing me won't affect your application, but I'm happy to answer specific questions about the research.
+Penn State admits to the Chemistry PhD program rather than to individual groups. Apply to the department and mention an interest in materials or inorganic chemistry. Emailing me won't affect your application, but I'm happy to answer specific questions about our ongoing research.
 
 ## Undergraduates
 
-Penn State students at any stage can and should email me, with a preference for chemistry and related majors. The strongest emails are specific about the our ongoing research rather than about wanting research experience.
+Penn State students at any stage can and should email me, with a preference for chemistry and related majors. The strongest emails are specific about our ongoing research rather than about wanting research experience.
 
 ## Postdocs
 
