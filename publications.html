@@ -40,7 +40,7 @@ permalink: /publications/
     {% assign prior = site.data.publications-prior | sort: "number" | reverse %}
     {% for pub in prior %}
     <div class="pub-simple">
-      {% if pub.number %}<span class="num">{{ pub.number }}</span>{% endif %}
+          <span class="num">{% if pub.number %}{{ pub.number }}{% endif %}</span>
       <div>
         <p class="cite">{{ pub.cite }}</p>
         {% if pub.doi %}<a class="doi" href="{{ pub.doi }}" target="_blank" rel="noopener">DOI</a>{% endif %}
