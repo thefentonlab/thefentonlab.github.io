@@ -30,7 +30,8 @@ permalink: /people/
         <img src="{{ '/assets/img/' | append: p.photo | relative_url }}" alt="{{ p.name }}">
         <p class="name">{{ p.name }}</p>
         <p class="meta">Joined {{ p.joined }}<br>{{ p.degree }}</p>
-        {% if p.email %}<a class="email" href="mailto:{{ p.email }}">{{ p.email }}</a>{% endif %}
+                {% if p.email %}<a class="email" href="mailto:{{ p.email }}">{{ p.email }}</a>{% endif %}
+        {% if p.linkedin %}<a class="email" href="{{ p.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>{% endif %}
       </div>
       {% endfor %}
     </div>
@@ -55,7 +56,7 @@ permalink: /people/
 <section>
   <div class="wrap">
     <h2 class="sec-label">Alumni</h2>
-    <div class="grid g3 alumni">
+      <div class="alumni">
       {% for p in site.data.people.alumni %}
       <div><strong>{{ p.name }}</strong> &middot; {{ p.degree }} &middot; {{ p.now }}</div>
       {% endfor %}
