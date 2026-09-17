@@ -58,7 +58,7 @@ permalink: /people/
     <h2 class="sec-label">Alumni</h2>
       <div class="alumni">
       {% for p in site.data.people.alumni %}
-      <div><strong>{{ p.name }}</strong> &middot; {{ p.degree }} &middot; {{ p.now }}</div>
+           <div><strong>{% if p.linkedin %}<a href="{{ p.linkedin }}" target="_blank" rel="noopener">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}</strong> &middot; {{ p.degree }} &middot; {{ p.now }}</div>
       {% endfor %}
     </div>
   </div>
