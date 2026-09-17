@@ -176,3 +176,14 @@ footer a:hover{color:#fff;}
   .pub-simple .num{margin-bottom:2px;}
 }
 
+/* ---------- target tags on the research page ---------- */
+.tags{display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 18px;}
+.tt{
+  font-size:13px;
+  font-weight:500;
+  color:var(--accent);
+  border:1px solid var(--accent);
+  border-radius:3px;
+  padding:4px 10px;
+  line-height:1.3;
+}
