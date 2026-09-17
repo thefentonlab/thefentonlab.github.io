@@ -14,6 +14,7 @@ permalink: /publications/
 
 <section style="padding-top:0">
   <div class="wrap">
+    <h2 class="sec-label">Fenton Group publications</h2>
     {% assign pubs = site.data.publications | sort: "number" | reverse %}
     {% for pub in pubs %}
     <div class="pub">
@@ -21,8 +22,26 @@ permalink: /publications/
         {% if pub.image %}<img src="{{ '/assets/img/' | append: pub.image | relative_url }}" alt="">{% endif %}
       </div>
       <div>
-        <p class="num">{{ pub.number }}</p>
+        {% if pub.number %}<p class="num">{{ pub.number }}</p>{% endif %}
         {% if pub.note %}<span class="tag">{{ pub.note }}</span>{% endif %}
+        <p class="cite">{{ pub.cite }}</p>
+        {% if pub.doi %}<a class="doi" href="{{ pub.doi }}" target="_blank" rel="noopener">DOI</a>{% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="band">
+  <div class="wrap">
+    <h2 class="sec-label">Previous publications</h2>
+    <p class="narrow" style="margin:-20px 0 32px; font-size:16px; color:var(--muted)">
+      Work completed prior to joining the Penn State faculty.</p>
+    {% assign prior = site.data.publications-prior | sort: "number" | reverse %}
+    {% for pub in prior %}
+    <div class="pub-simple">
+      {% if pub.number %}<span class="num">{{ pub.number }}</span>{% endif %}
+      <div>
         <p class="cite">{{ pub.cite }}</p>
         {% if pub.doi %}<a class="doi" href="{{ pub.doi }}" target="_blank" rel="noopener">DOI</a>{% endif %}
       </div>
