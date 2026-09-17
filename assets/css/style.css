@@ -174,3 +174,4 @@ footer a:hover{color:#fff;}
   .pub-simple{grid-template-columns:1fr; gap:4px;}
   .pub-simple .num{margin-bottom:2px;}
 }
+.person .email{display:block; margin-top:4px;}
