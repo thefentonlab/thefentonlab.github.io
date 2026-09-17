@@ -23,7 +23,7 @@ Designed precursors program bonding interactions that survive thermolysis, steer
 solution chemistry toward otherwise unfavorable combinations of atoms and in some cases
 new phases. These tools are applied to discovering metastable structures at the nanoscale.
 
-*Add a figure and two or three more paragraphs here.*
+
 
 ## Topochemical transformations
 
@@ -32,7 +32,7 @@ converting one crystal structure into another. Topochemical methods developed he
 single crystals down into solution-stabilized products with unusual morphologies and
 compositions.
 
-*Add a figure and two or three more paragraphs here.*
+
 
 ## Crystal growth and assembly
 
@@ -40,7 +40,7 @@ Slow growth and directed assembly build structures from the bottom up. Crystals 
 materials are grown to examine supramolecular interactions, and assembly is used to
 organize nanoscale components into porous composites in polymers and gels.
 
-*Add a figure and two or three more paragraphs here.*
+
 
 </div>
 </section>
