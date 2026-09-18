@@ -4,25 +4,62 @@
 # "body" is optional.
 # ============================================================
 
-- date: September 2026
+- date: Sep 2026
   title: New group website launched
 
-- date: August 2026
+- date: Aug 2026
   title: Dr. Balu Ratheesh (PhD no. 2) successfully defends dissertation!
-  body: He is off to a postdoc at Indiana University to work with Samantha Harvey
+  body: next stop: postdoc with Samantha Harvey at Indiana University
   
-- date: August 2026
+- date: Aug 2026
   title: New perspective paper published in <em>Chem. Mater.</em>
-  body: Congrats to first-author Rahul!
+  body: Congrats to first author Rahul!
 
-- date: June 2026
+- date: Jun 2026
   title: Group attends the Inorganic Chemistry GRC
   body: Isis and Rahul present posters
 
 - date: May 2026
-  title: Dr. Rick Josey (PhD no. 1) successfully defends dissertation!
-  body: He is off to a job at PPG
-
-- date: May 2026
   title: New paper published in <em>CrystEngComm</em>
-  body: Congrats to first-author Isis!
+  body: Congrats to first author Isis!
+  
+- date: May 2026
+  title: Devin passes comprehensive exam!
+  
+- date: May 2026
+  title: Dr. Rick Josey (PhD no. 1) successfully defends dissertation!
+  body: Next stop: scientist, PPG
+
+- date: Jan 2026
+  title: Undergraduate researcher Mark Farrell joins the lab
+  
+- date: Dec 2025
+  title: Graduate students Shibartha Dutta and Kara Musteikis join the lab
+
+- date: Dec 2025
+  title: Lucas Madak (our original undergraduate researcher) graduates from Penn State
+  body: Next stop: chemistry PhD program at University of Illinois Urbana-Champaign
+
+- date: Sep 2025
+  title: Undergraduate researcher Alana Dandurand joins the lab
+
+- date: Aug 2025
+  title: New paper published in <em>Chem. Mater.</em>
+  body: Congrats to first-author Rick!
+
+- date: Aug 2025
+  title: New paper published in <em>ACS Nanoscience Au</em>, as part of Rising Stars issue
+  body: Congrats to first-author Rahul!
+
+- date: Jul 2025
+  title: Group attends inaugural American Conference on Inorganic Nanoscience meeting
+  body: Balu and Danni present posters, Julie presents flash talk
+
+- date: Jul 2025
+  title: Devin passes first committee meeting
+
+- date: Jun 2025
+  title: Addie passes comprehensive exam!
+
+- date: Jun 2025
+  title: Rahul passes comprehensive exam!
