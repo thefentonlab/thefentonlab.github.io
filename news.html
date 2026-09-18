@@ -13,25 +13,17 @@ permalink: /news/
 <section style="padding-top:0">
   <div class="wrap narrow-lg">
     {% for item in site.data.news %}
-    <div class="news-item">
+    <div class="news-item{% if item.image %} has-img{% endif %}">
 
       {% if item.image %}
       <img class="news-img" src="{{ '/assets/img/' | append: item.image | relative_url }}" alt="">
       {% endif %}
 
-      {% if item.images %}
-      <div class="news-gallery">
-        {% for img in item.images %}
-        <a href="{{ '/assets/img/' | append: img | relative_url }}">
-          <img src="{{ '/assets/img/' | append: img | relative_url }}" alt="">
-        </a>
-        {% endfor %}
+      <div>
+        <time>{{ item.date }}</time>
+        <h3>{{ item.title }}</h3>
+        {% if item.body %}<p>{{ item.body }}</p>{% endif %}
       </div>
-      {% endif %}
-
-      <time>{{ item.date }}</time>
-      <h3>{{ item.title }}</h3>
-      {% if item.body %}<p>{{ item.body }}</p>{% endif %}
 
     </div>
     {% endfor %}
