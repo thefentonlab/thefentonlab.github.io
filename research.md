@@ -24,9 +24,7 @@ Work in the Fenton Lab uses and develops synthesis tools across length and tempe
     <span class="tt">Metastable colloidal nanocrystals</span>
     <span class="tt">Layered and low-dimensional materials</span>
   </p>
-  <p>Designed precursors program bonding interactions that survive thermolysis, steering
-  solution chemistry toward otherwise unfavorable combinations of atoms and in some cases
-  new phases. These tools are applied to discovering metastable structures at the nanoscale.</p>
+  <p>Molecular precursors can carry structural and bonding information that survives thermolysis. Designing that information into the starting material steers solution chemistry toward otherwise unfavorable combinations of atoms, and in some cases toward phases with no known bulk analogue. Precursor design also makes the reaction pathway a variable that can be controlled rather than one that must be discovered empirically.</p>
 
 
 </div>
@@ -54,9 +52,7 @@ Work in the Fenton Lab uses and develops synthesis tools across length and tempe
     <span class="tt">Crystalline hybrid materials</span>
     <span class="tt">Porous nanocomposites</span>
   </p>
-  <p>Slow growth and directed assembly build structures from the bottom up. Crystals of
-  hybrid materials are grown to examine supramolecular interactions, and assembly is used
-  to organize nanoscale components into porous composites in polymers and gels.</p>
+  <p>Growing single crystals of hybrid materials gives structures that can be solved rather than inferred, which makes supramolecular interactions between organic and inorganic components directly observable. Directed assembly takes the complementary approach, organizing nanoscale components into porous composites supported in polymers and gels.</p>
 
 </div>
 </section>
