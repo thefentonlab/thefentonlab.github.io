@@ -27,7 +27,6 @@
   title: Devin passes comprehensive exam!
   image: img/devincomps.jpg
   
-  
 - date: May 2026
   title: Dr. Rick Josey (PhD no. 1) successfully defends dissertation!
   image: img/drjosey.jpeg
@@ -75,6 +74,10 @@
 
 - date: Jun 2025
   title: Rick wins NASA PA Space Grant Consortium Fellowship
+
+- date: May 2025
+  title: New group photo!
+  image: img/fenton2025.png
 
 - date: May 2025
   title: Dr. Daniel Chica joins the lab as a postdoc (joint with Hodges group)
