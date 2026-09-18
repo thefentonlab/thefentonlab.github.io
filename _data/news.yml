@@ -25,9 +25,12 @@
   
 - date: May 2026
   title: Devin passes comprehensive exam!
+  image: img/devincomps.jpg
+  
   
 - date: May 2026
   title: Dr. Rick Josey (PhD no. 1) successfully defends dissertation!
+  image: img/drjosey.jpeg
   body: Next stop - scientist, PPG
 
 - date: Jan 2026
@@ -60,9 +63,11 @@
 
 - date: Jun 2025
   title: Addie passes comprehensive exam!
+  image: img/addiecomps.jpg
 
 - date: Jun 2025
   title: Rahul passes comprehensive exam!
+  image: img/rahulcomps.jpg
 
 - date: Jun 2025
   title: Isis and Rick win Graduate Student Service Awards
@@ -89,9 +94,11 @@
 
 - date: Jul 2024
   title: Danni passes comprehensive exam!
+  image: img/dannicomps.jpg
 
 - date: Jul 2024
   title: Isis passes comprehensive exam!
+  image: img/isiscomps.jpg
 
 - date: Jun 2024
   title: Group attends the Mid-Atlantic Regional ACS Meeting
