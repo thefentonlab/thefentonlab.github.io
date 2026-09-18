@@ -13,7 +13,8 @@ permalink: /news/
 <section style="padding-top:0">
   <div class="wrap narrow-lg">
     {% for item in site.data.news %}
-    <div class="news-item">
+       <div class="news-item">
+      {% if item.image %}<img class="news-img" src="{{ '/assets/img/' | append: item.image | relative_url }}" alt="">{% endif %}
       <time>{{ item.date }}</time>
       <h3>{{ item.title }}</h3>
       {% if item.body %}<p>{{ item.body }}</p>{% endif %}
