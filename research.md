@@ -9,13 +9,9 @@ permalink: /research/
 
 # Research
 
-Solid-state synthesis gives you one structure per composition, and it is the one
-thermodynamics prefers. Reaching the others is a synthesis problem.
+Solid-state synthesis yields only the most thermodynamically favorable product. Developing creative synthetic approaches may help us discover others.
 
-Work in the group spans metastable colloidal nanocrystals, layered and
-low-dimensional materials, porous nanocomposites, and crystalline hybrid materials.
-The methods below are applied across those targets, chosen by what a given structure
-demands.
+Work in the Fenton Lab uses and develops synthesis tools across length and temperature scales, aimed at discovering new materials. Our efforts span metastable colloidal nanocrystals, layered and low-dimensional materials, porous nanocomposites, and crystalline hybrid materials.
 
 </div>
 </section>
@@ -44,10 +40,7 @@ demands.
     <span class="tt">Layered and low-dimensional materials</span>
     <span class="tt">Metastable colloidal nanocrystals</span>
   </p>
-  <p>Mild reaction conditions insert and remove atoms without dismantling the host lattice,
-  converting one crystal structure into another. Topochemical methods developed here break
-  single crystals down into solution-stabilized products with unusual morphologies and
-  compositions.</p>
+  <p>Templating reactions in a pre-formed crystal can translate structural motifs into a new product or induce emergent properties in an existing solid. Chemically selective removal of atoms yields new solution-stable products with unusual morphologies and compositions at the nanoscale. Because the product retains a structural relationship to the parent, it also permits characterization by analogy to the starting compound.</p>
 
 
 </div>
