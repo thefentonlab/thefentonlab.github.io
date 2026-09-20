@@ -40,7 +40,16 @@ Work in the Fenton Lab uses and develops synthesis tools across length and tempe
   </p>
   <p>Templating reactions in a pre-formed crystal can translate structural motifs into a new product or induce emergent properties in an existing solid. Chemically selective removal of atoms yields new solution-stable products with unusual morphologies and compositions at the nanoscale. Because the product retains a structural relationship to the parent, it also permits characterization by analogy to the starting compound.</p>
 
+  <figure class="rfig">
+    <img src="{{ '/assets/img/topo1.jpg' | relative_url }}" alt="orange crystals growing in a clear tube on a black background">
+    <figcaption>Single-crystals grown by CVT of a target precursor solid</figcaption>
+  </figure>
 
+    <figure class="rfig">
+    <img src="{{ '/assets/img/topo2.jpg' | relative_url }}" alt="black crystal plates on a white background">
+    <figcaption>Single-crystals grown of a target precursor solid</figcaption>
+  </figure>
+  
 </div>
 </section>
 
@@ -53,6 +62,29 @@ Work in the Fenton Lab uses and develops synthesis tools across length and tempe
     <span class="tt">Porous nanocomposites</span>
   </p>
   <p>Growing single crystals of hybrid materials gives structures that can be solved rather than inferred, which makes supramolecular interactions between organic and inorganic components directly observable. Directed assembly takes the complementary approach, organizing nanoscale components into porous composites supported in polymers and gels.</p>
+
+    <figure class="rfig">
+    <img src="{{ '/assets/img/pores1.png' | relative_url }}" alt="array of uniform holes on a black background">
+    <figcaption>2D porous array formed from sacrificial nanotemplate</figcaption>
+  </figure>
+
+
+    <figure class="rfig">
+    <img src="{{ '/assets/img/pores2.png' | relative_url }}" alt="SEM image of 3D array of uniform pores">
+    <figcaption>porous polymer formed from sacrificial nanotemplate</figcaption>
+  </figure>
+
+  
+    <figure class="rfig">
+    <img src="{{ '/assets/img/pores4.png' | relative_url }}" alt="assembled nanoparticles embedded in polymer film">
+    <figcaption>assembled nanoparticles embedded in a polymer film</figcaption>
+  </figure>
+
+  
+    <figure class="rfig">
+    <img src="{{ '/assets/img/hybrid1.jpg' | relative_url }}" alt="yellow crystals on a white background">
+    <figcaption>crystals of a solution-grown hybrid material</figcaption>
+  </figure>
 
 </div>
 </section>
