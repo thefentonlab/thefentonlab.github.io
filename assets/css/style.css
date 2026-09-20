@@ -194,10 +194,10 @@ footer a:hover{color:#fff;}
   padding:4px 10px;
   line-height:1.3;
 }
-/* ---------- research page: figure beside text ---------- */
-.mgrid{display:grid; grid-template-columns:1fr 360px; gap:48px; align-items:start;}
-.rfig{margin:0;}
-.rfig img{width:100%; aspect-ratio:4/3; object-fit:cover;}
-@media (max-width:900px){
-  .mgrid{grid-template-columns:1fr; gap:24px;}
+/* ---------- research page: figure row under text ---------- */
+.figrow{display:flex; flex-wrap:wrap; gap:14px; margin-top:28px;}
+.figrow .rfig{flex:0 1 240px; margin:0;}
+.figrow img{width:100%; aspect-ratio:1/1; object-fit:cover;}
+@media (max-width:640px){
+  .figrow .rfig{flex:1 1 40%;}
 }
