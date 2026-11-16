@@ -10,6 +10,12 @@
 #   note:    short label, shows as a blue tag (optional)
 # ============================================================
 
+- number: 25
+  cite: >
+    Ratheesh, B.P.; Fenton, J.L.<sup>*</sup> "Topochemical Cu<sub>2</sub>S elimination during the colloidal growth of α-BaCu<sub>2</sub>S<sub>2</sub> nanocrystals" <em>In revision</em>
+    <strong>2026</strong>.
+  image: toc/acsnano2026.jpg
+
 - number: 24
   cite: >
     Manikkoth, R.R.; Fenton, J.L.<sup>*</sup> "Beyond Familiar Phases: Discovering New Crystal Chemistry at the Nanoscale." <em>Chem. Mater.</em>
@@ -17,6 +23,7 @@
   doi: https://doi.org/10.1021/acs.chemmater.6c01898
   image: toc/chemmatperspective.jpg
   note: Invited Up-and-Coming Perspective
+  note: Featured on the Front Cover of <em>Chem. Mater.</em>
 
 - number: 23
   cite: >
